@@ -1,0 +1,18 @@
+# Sorties locales generees par l'outil
+*.html
+*.csv
+*.json
+*.log
+*.clixml
+
+# Dossiers d'editeur
+.vs/
+.vscode/
+
+# Artefacts PowerShell et paquets
+*.nupkg
+output/
+
+# Resultats de tests
+TestResults/
+testResults*.xml
